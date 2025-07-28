@@ -24,10 +24,6 @@ yarn install
 
 Create a `.env.local` file in the root directory of your project to store sensitive environment variables:
 
-```env
-JWT_SECRET_KEY=SPOTIFY_CLIENT_ID=SPOTIFY_CLIENT_SECRET=
-```
-
 Then, run the development server:
 
 ```bash
